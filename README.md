@@ -207,7 +207,7 @@ Created visualizations to identify patterns:
 Learned how to analyze real-world datasets, create visualizations, identify patterns, and generate meaningful insights using Python data analysis libraries.
 
 
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________
 
 # 📊 Week 3 - SQL Analysis (E-Commerce Dataset)
 
