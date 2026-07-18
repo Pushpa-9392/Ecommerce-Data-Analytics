@@ -206,6 +206,114 @@ Created visualizations to identify patterns:
 ## 💡 Key Learnings
 Learned how to analyze real-world datasets, create visualizations, identify patterns, and generate meaningful insights using Python data analysis libraries.
 
+______________________________________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________________________________
+
+# 📊 Week 3 - SQL Analysis (E-Commerce Dataset)
+
+## 📌 Project Overview
+
+In this project, I performed SQL analysis on a cleaned E-Commerce dataset using MySQL. The dataset was imported into MySQL, and analytical queries were written to extract meaningful business insights using SQL concepts such as JOINs, GROUP BY, aggregate functions, and subqueries.
+
+---
+
+## 🎯 Objectives
+
+- Import the cleaned dataset into MySQL.
+- Analyze the data using SQL.
+- Perform aggregations and grouping.
+- Use JOINs to combine related tables.
+- Write subqueries for advanced analysis.
+- Generate business insights from the dataset.
+
+---
+
+## 📂 Dataset Information
+
+- **Dataset:** E-Commerce Sales Dataset
+- **Source:** Kaggle
+- **Database:** MySQL
+- **Records:** 50,000+ Rows
+- **Format:** CSV
+
+---
+
+## 🛠️ Tools & Technologies
+
+- MySQL Workbench
+- SQL
+- GitHub
+
+---
+
+## 🔍 SQL Analysis Performed
+
+The following SQL concepts were used:
+
+- INNER JOIN
+- GROUP BY
+- Aggregate Functions (SUM, AVG, COUNT)
+- HAVING Clause
+- ORDER BY
+- LIMIT
+- Subqueries
+
+---
+
+## 📊 Business Questions Answered
+
+1. What is the total sales for each product category?
+2. Which product category generated the highest profit?
+3. How many orders were placed by each gender?
+4. Which payment method is used the most?
+5. Which products generated the highest sales?
+6. What is the average profit by customer login type?
+7. Which customers placed more than five orders?
+8. Which product category has the highest total sales?
+9. Which order priority has the highest number of orders?
+10. Which device type generated the highest sales?
+
+---
+
+## 📁 Repository Files
+
+| File | Description |
+|------|-------------|
+| Week3_SQL_Analysis.sql | SQL queries for data analysis |
+| Query Screenshots | Sample outputs of SQL queries |
+| README.md | Project documentation |
+
+---
+
+## 📈 Skills Demonstrated
+
+- SQL
+- MySQL
+- Data Analysis
+- JOINs
+- GROUP BY
+- Aggregate Functions
+- Subqueries
+- Business Insights
+
+---
+
+## 💡 Key Learnings
+
+Through this project, I learned how to analyze real-world data using SQL. I practiced writing analytical queries with JOINs, aggregate functions, GROUP BY, HAVING, and subqueries to answer business questions and generate meaningful insights from the dataset.
+
+---
+
+## 🚀 Future Improvements
+
+- Create SQL Views
+- Use Window Functions
+- Optimize SQL Queries
+- Build Interactive Dashboards using Power BI or Tableau
+- Perform Advanced SQL Analytics
+
+
 
 ## 👩‍💻 Author
 **Pushpa Sarisabadra**
