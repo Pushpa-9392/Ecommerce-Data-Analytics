@@ -315,7 +315,7 @@ Through this project, I learned how to analyze real-world data using SQL. I prac
 
 
 
-## 👩‍💻 Author
+## 👩‍💻 Author 
 **Pushpa Sarisabadra**
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Data Visulization | Creating DashBoard and Insights
