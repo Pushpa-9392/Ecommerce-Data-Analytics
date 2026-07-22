@@ -314,6 +314,100 @@ Through this project, I learned how to analyze real-world data using SQL. I prac
 
 
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# 📊 Week 4 - Insights Dashboard & Report
+
+## 📌 Project Overview
+
+This project focuses on building an interactive E-Commerce Sales Dashboard using Power BI. The dashboard helps analyze sales performance, customer behavior, product categories, and business trends through interactive visualizations and KPIs.
+
+---
+
+## 🎯 Objectives
+
+- Build an interactive Power BI dashboard.
+- Analyze sales and profit performance.
+- Identify customer and product trends.
+- Provide actionable business recommendations.
+
+---
+
+## 🛠️ Tools Used
+
+- Power BI Desktop
+- Microsoft Excel
+- Git & GitHub
+
+---
+
+## 📊 Dashboard Features
+
+### KPI Cards
+- 💰 Total Sales
+- 📈 Total Profit
+- 📦 Total Orders
+- 👥 Total Customers
+
+### Visualizations
+- Sales by Product Category
+- Sales by Product
+- Profit by Device Type
+- Payment Method Distribution
+- Gender Distribution
+- Daily Sales Trend
+
+### Interactive Filters
+- Product Category
+- Gender
+- Device Type
+- Payment Method
+
+---
+
+## 📈 Key Insights
+
+- Electronics generated the highest sales.
+- Online payment methods were used more frequently than cash payments.
+- Sales varied across different product categories.
+- Device type influenced profit generation.
+- Customer purchasing behavior differed by gender.
+
+---
+
+## 💡 Business Recommendations
+
+1. Increase inventory for high-selling product categories.
+2. Focus marketing campaigns on the most profitable customer segments.
+3. Promote digital payment methods to improve customer experience.
+
+---
+
+## 📂 Project Files
+
+- Dashboard.pbix
+- Dashboard.png
+- Week4_Report.pdf
+- Screenshots/
+
+---
+
+## 📸 Dashboard Preview
+
+See the **Screenshots** folder for dashboard images.
+
+---
+
+## 👩‍💻 Author
+
+**Pushpa Sarisabadra**
+
+B.Tech - Computer Science & Engineering
+
+Aspiring Data Analyst
+
+GitHub: https://github.com/Pushpa-9392
+
 ## 👩‍💻 Author 
 >>>>>>> 904bd00bc7d89395318e3840cfd841c89b3d5594
 **Pushpa Sarisabadra**
