@@ -404,12 +404,8 @@ See the **Screenshots** folder for dashboard images.
 
 B.Tech - Computer Science & Engineering
 
-Aspiring Data Analyst
-
 GitHub: https://github.com/Pushpa-9392
 
-## 👩‍💻 Author 
 >>>>>>> 904bd00bc7d89395318e3840cfd841c89b3d5594
-**Pushpa Sarisabadra**
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Data Visulization | Creating DashBoard and Insights
